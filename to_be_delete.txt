@@ -1,1 +1,2 @@
 This file si to be deleted.
+This line is aimed to test checkout.
